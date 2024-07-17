@@ -1,4 +1,4 @@
-#include "main.h"
+#include "Main.h"
 /**
 * print_unsig - function that prints unsigned number
 * @u: unsigned number
