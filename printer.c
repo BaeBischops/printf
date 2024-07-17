@@ -1,4 +1,4 @@
-#include "main.h"
+#include "Main.h"
 
 /**
  * printer - prints according to format
