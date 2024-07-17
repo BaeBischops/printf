@@ -1,4 +1,4 @@
-#include "main.h"
+#include "Main.h"
 
 /**
  * print_oct - prints the octal representation of an integer
